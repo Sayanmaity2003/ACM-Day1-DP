@@ -1,6 +1,7 @@
 # ACM-Day1-DP
 -------------Day-1 Practice Problems---------------
-	    QUESTION 1:
+
+	    		QUESTION 1:
 			
 		https://codeforces.com/contest/1945/problem/A
 
